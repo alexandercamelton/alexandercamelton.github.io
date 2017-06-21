@@ -1,0 +1,21 @@
+body {
+	background-color: lightblue
+}
+#name {
+	color: #3C7A3C
+	
+
+}
+.center {
+	text-align: center;
+	border: 3px solid black;
+	padding: 10px;
+	margin: 40px;
+}
+
+.boxed {
+	text-align: center;
+}
+.extra {
+
+}
